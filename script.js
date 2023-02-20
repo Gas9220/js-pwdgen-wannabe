@@ -1,3 +1,5 @@
+"use strict";
+
 // Chiedo il nome all'utente
 const firstName = prompt('Insert your name...')
 
